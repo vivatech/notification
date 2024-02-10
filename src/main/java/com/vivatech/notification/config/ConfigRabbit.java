@@ -1,4 +1,4 @@
-package com.vivatech.config;
+package com.vivatech.notification.config;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
